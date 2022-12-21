@@ -8,7 +8,7 @@ The "Travel Website" was created to overcome the issues present in the already i
 current manual method with the use of computerized equipment and comprehensive computer software, meeting their needs in order to preserve their important data and information for a longer length of time with simple access and modification. The necessary gear and software are readily available and simple to use. It could aid in gathering precise management information. The collection will be clear, uncomplicated, and logical in a relatively short period of 
 time. It will assist someone in fully and vividly understanding how the previous year was managed. Additionally, it supports all ongoing projects pertaining to travel websites. Additionally, the cost of collection will be decreased, and the collection process will continue smoothly.
 ## Primary Azure Technology: Static webapp, webapp
-##Other Azure Technologies:For the completion of this I just used the Static Web Apps & Web Apps as the Azure Technologies.
+## Other Azure Technologies:For the completion of this I just used the Static Web Apps & Web Apps as the Azure Technologies.
 
 
 # Azure Link https://kind-hill-06972f510.1.azurestaticapps.net/
